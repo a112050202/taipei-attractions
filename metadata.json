@@ -1,0 +1,5 @@
+{
+  "name": "Taipei Attractions Viewer",
+  "description": "A high-performance React application for browsing Taipei's tourist attractions using the Taipei Travel Open API. Features keyword search, pagination, responsive grid layouts, and detailed attraction views.",
+  "requestFramePermissions": []
+}
